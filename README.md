@@ -6,7 +6,7 @@ I create single-page applications using the React library
 
 Skills: HTML / CSS / JS / ReactJS/ NextJS/ NodeJS/ Typescript 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on kvandotech
 - 🌱 I’m currently learning NodeJS 
 - 👯 I’m looking to collaborate on educational projects 
 
